@@ -1,3 +1,4 @@
+
 # CodeRefinery recipe book
 
 We use this repository to teach Git and also to collect
@@ -16,3 +17,4 @@ towards the template repository.
 - [mains](mains)
 - [sides](sides)
 - [desserts](desserts)
+- [caje](chocolate_cake)
